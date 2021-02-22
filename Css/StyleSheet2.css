@@ -1,0 +1,90 @@
+﻿.container{
+  
+    padding:20px;
+     border:1px solid #ddd; 
+     border-radius:7px;
+     margin-bottom:35px;
+}
+.p{
+    margin-bottom:20px;
+
+}
+label{
+    
+    font-weight:500;
+   
+}
+h3{
+    font-weight:400;
+    margin-bottom:17px;
+   
+}
+.itemmmms{
+    font-size:20px;
+    font-weight:bold;
+
+}
+
+footer{
+    height:48px;
+    color:white;
+    text-align:center;
+    
+
+
+}
+
+footer h6 {
+    
+    position:relative;
+    top:5px;
+    display:inline-block;
+    font-size:18px;
+}
+footer p{
+    font-size:10px;
+   position:relative;
+    top:3px;
+     display:inline-block;
+}
+.logo{
+      margin-top:70px;
+    margin: 10px 600px;
+    margin-bottom:30px;
+    font-size:50px;
+font-family: 'Footlight MT';
+
+    width:100%;
+
+
+}
+.mar{
+    margin-top:10%;
+}
+.logo span{
+    font-size:medium;
+    vertical-align:super;
+}
+img{
+  margin: 10px 600px;
+
+    
+}
+body{
+    background-image:url(../pics/casspture.png);
+}
+.chSize{
+
+    font-weight:400;
+    margin-bottom:17px;
+    font-size:26px;
+
+
+
+
+
+}
+.akeSpace{
+
+    margin-left:750px;
+}

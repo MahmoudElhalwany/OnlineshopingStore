@@ -1,0 +1,22 @@
+﻿.con{
+  
+    padding:20px;
+     border:1px solid #ddd; 
+     border-radius:7px;
+     margin-bottom:35px;
+     width:400px;
+     height:400px;
+}
+.gotoCenter{
+   margin-top:90px;
+
+}
+.makeBox{
+  
+     padding:20px;
+     border:1px solid #ddd; 
+     border-radius:7px;
+     margin-bottom:35px;
+     width:600px;
+     height:auto;
+}

@@ -1,0 +1,1 @@
+This files will work successfully in SQL server 2008 or higher versions.

@@ -1,0 +1,25 @@
+Online Shopping Store.
+----------------------------------
+
+A simple website like "Amazon" and "souq.com".
+it can display all products in the database, let users to register and login
+as a person or a company. you can use it to buy any products or sell products.
+Also, you can search for a specific product.
+-----------------------------------
+
+We used Microsoft visual studio 2013 and Microsoft SQL server 2008 R2.
+-----------------------------------
+
+To make this project work successfully, you should attach database first and 
+run the project in Visual Studio 2013.
+-------------------------------------
+
+
+Programming language.
+--------------------------
+
+-HTML
+-CSS
+-ASP.NET
+-Microsoft SQL Server 2008 R2
+-------------------------------------------

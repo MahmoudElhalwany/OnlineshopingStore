@@ -1,0 +1,17 @@
+﻿.com_btn{
+    margin:5px;
+    width:25%;
+    
+}
+.fonts{
+    font-size:16px;
+    font-weight:bold !important;
+}
+.adminpage{
+    margin-top:60px;
+    border: 1px solid rgba(204, 204, 204, 0.84);
+    background-color:white;
+    padding:50px;
+    min-height:590px;
+
+}

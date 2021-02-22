@@ -1,0 +1,36 @@
+M:\testing\onlineShop\onlineShop\bin\onlineShop.dll.config
+M:\testing\onlineShop\onlineShop\bin\onlineShop.dll
+M:\testing\onlineShop\onlineShop\bin\onlineShop.pdb
+M:\testing\onlineShop\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
+M:\testing\onlineShop\onlineShop\obj\Debug\onlineShop.dll
+M:\testing\onlineShop\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\mahmo\Desktop\onlineShop\bin\onlineShop.dll.config
+C:\Users\mahmo\Desktop\onlineShop\bin\onlineShop.dll
+C:\Users\mahmo\Desktop\onlineShop\bin\onlineShop.pdb
+C:\Users\mahmo\Desktop\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\Desktop\onlineShop\obj\Debug\onlineShop.dll
+C:\Users\mahmo\Desktop\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\mashr\Desktop\onlineShop\bin\onlineShop.dll.config
+C:\Users\mashr\Desktop\onlineShop\bin\onlineShop.dll
+C:\Users\mashr\Desktop\onlineShop\bin\onlineShop.pdb
+C:\Users\mashr\Desktop\onlineShop\obj\Debug\onlineShop.dll
+C:\Users\mashr\Desktop\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\mashr\Desktop\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\Desktop\Hlawany Task\onlineShop\bin\onlineShop.dll.config
+C:\Users\mahmo\Desktop\Hlawany Task\onlineShop\bin\onlineShop.dll
+C:\Users\mahmo\Desktop\Hlawany Task\onlineShop\bin\onlineShop.pdb
+C:\Users\mahmo\Desktop\Hlawany Task\onlineShop\obj\Debug\onlineShop.dll
+C:\Users\mahmo\Desktop\Hlawany Task\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\mahmo\Desktop\Hlawany Task\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\Desktop\Hlawany Task 94%\onlineShop\bin\onlineShop.dll.config
+C:\Users\mahmo\Desktop\Hlawany Task 94%\onlineShop\bin\onlineShop.dll
+C:\Users\mahmo\Desktop\Hlawany Task 94%\onlineShop\bin\onlineShop.pdb
+C:\Users\mahmo\Desktop\Hlawany Task 94%\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\Desktop\Hlawany Task 94%\onlineShop\obj\Debug\onlineShop.dll
+C:\Users\mahmo\Desktop\Hlawany Task 94%\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\bin\onlineShop.dll.config
+C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\bin\onlineShop.dll
+C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\bin\onlineShop.pdb
+C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\obj\Debug\onlineShop.dll
+C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\obj\Debug\onlineShop.pdb
