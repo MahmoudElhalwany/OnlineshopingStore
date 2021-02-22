@@ -24,7 +24,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-# Online-Shopping-Store
+### Home
+![Screenshot](Screenshots/Home.png)
+### products
+![Screenshot](Screenshots/laptops.png)
+### Admin dashboard
+![Screenshot](Screenshots/AdminDashboard.png)
+
+### Online-Shopping-Store
 
 In this project we have developed a website for online Electronic products shop   
 
@@ -41,7 +48,6 @@ Features
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [ASP.net](https://Asp.net)
 * [Bootstrap](https://getbootstrap.com)
 * [JavaScript](https://https://www.javascript.com/)
