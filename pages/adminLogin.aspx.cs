@@ -8,7 +8,7 @@ using System.Data;
 using System.Data.SqlClient;
 namespace onlineShop.pages
 {
-    public partial class AdminLogin : System.Web.UI.Page
+    public partial class adminLogin : System.Web.UI.Page
     {
         SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=OnlineShopStore;Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)

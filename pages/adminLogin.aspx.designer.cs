@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace onlineShop.pages {
-    
-    
-    public partial class AdminLogin {
-        
+namespace onlineShop.pages
+{
+
+
+    public partial class adminLogin
+    {
+
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace onlineShop.pages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
+
         /// <summary>
         /// enterEmail control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace onlineShop.pages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputText enterEmail;
-        
+
         /// <summary>
         /// enterPassword control.
         /// </summary>
@@ -38,7 +40,7 @@ namespace onlineShop.pages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputPassword enterPassword;
-        
+
         /// <summary>
         /// signinButton control.
         /// </summary>
