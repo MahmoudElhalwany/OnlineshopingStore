@@ -12,7 +12,7 @@ namespace onlineShop.pages
     {
         loginClass obj = new loginClass();
         products products_obj = new products();
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-7Q14GL7\SQLEXPRESS;Initial Catalog=OnlineShopStore;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=OnlineShopStore;Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)
         {
             cart.Style.Add("display", "none");
@@ -69,7 +69,8 @@ namespace onlineShop.pages
                 cmd.Parameters.Add(param_s);
                 con.Open();
 
-                int count = (int)cmd.ExecuteScalar();
+                //int count = (int)cmd.ExecuteScalar();
+                int count = 0;
 
                 con.Close();
 

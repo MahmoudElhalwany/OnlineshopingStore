@@ -34,3 +34,10 @@ C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\bin\onlineShop.pdb
 C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\obj\Debug\onlineShop.csprojResolveAssemblyReference.cache
 C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\obj\Debug\onlineShop.dll
 C:\Users\mahmo\Desktop\Online Shopping store\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\bin\onlineShop.dll.config
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\bin\onlineShop.dll
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\bin\onlineShop.pdb
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\obj\Debug\onlineShop.csprojAssemblyReference.cache
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\obj\Debug\onlineShop.csproj.CoreCompileInputs.cache
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\obj\Debug\onlineShop.dll
+C:\Users\maaahmed\Desktop\Collage\Online-Shopping-Store\obj\Debug\onlineShop.pdb

@@ -1,4 +1,4 @@
-﻿<%@ Page EnableEventValidation="false" Language="C#" AutoEventWireup="true" CodeBehind="hello.aspx.cs" Inherits="onlineShop.pages.hello" %>
+﻿<%@ Page EnableEventValidation="false" Language="C#" AutoEventWireup="true" CodeBehind="adminLogin.aspx.cs" Inherits="adminLogin" %>
 
 <!DOCTYPE html>
 

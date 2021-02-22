@@ -33,7 +33,7 @@ namespace onlineShop
         static public Dictionary<string, List<data>> top = new Dictionary<string, List<data>>();
 
        
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-7Q14GL7\SQLEXPRESS;Initial Catalog=OnlineShopStore;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=OnlineShopStore;Integrated Security=True");
         public void searchButton(string value)
         {
 

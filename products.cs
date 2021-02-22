@@ -17,7 +17,7 @@ namespace onlineShop
         public Dictionary<string, dataproduct> product = new Dictionary<string, dataproduct>();
          public List<data> cartPro = new List<data>();
 
-       SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-7Q14GL7\SQLEXPRESS;Initial Catalog=OnlineShopStore;Integrated Security=True");
+       SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=OnlineShopStore;Integrated Security=True");
        public void load_l(string name)
        {
          SqlCommand cmd = new SqlCommand("getIdOfUser",con);
@@ -50,8 +50,8 @@ namespace onlineShop
                 pro.productPicture = (byte[])red["Product_Pic"];
                 pro.productPrice =Convert.ToInt32(red["Product_Price"]);
                 pro.productDescriptions = (string)red["Descriptions"];
-                pro.productPieces = (int)red["num_of_product"];
-                pro.productCategory = red["Cat_ID"].ToString();
+                //pro.productPieces = (int)red["num_of_product"];
+                //pro.productCategory = red["Cat_ID"].ToString();
                 pro.productName = red["Product_Name"].ToString();
                 cartPro.Add(pro);
             }

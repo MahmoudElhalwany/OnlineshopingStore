@@ -10,7 +10,7 @@
 namespace onlineShop.pages {
     
     
-    public partial class hello {
+    public partial class AdminLogin {
         
         /// <summary>
         /// form1 control.

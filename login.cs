@@ -15,7 +15,7 @@ namespace onlineShop
     public class loginClass
     {
         public static int count = 0, cnt = 0;
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-7Q14GL7\SQLEXPRESS;Initial Catalog=OnlineShopStore;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=OnlineShopStore;Integrated Security=True");
   
        
        public void login(string email, string password)

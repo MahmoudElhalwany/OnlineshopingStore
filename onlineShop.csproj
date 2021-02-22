@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -75,7 +77,7 @@
     <Content Include="pages\companyregesteration.aspx" />
     <Content Include="pages\deletefromcart.aspx" />
     <Content Include="pages\getValueOfProduct.aspx" />
-    <Content Include="pages\hello.aspx" />
+    <Content Include="pages\adminLogin.aspx" />
     <Content Include="pages\Home.aspx" />
     <Content Include="Js\bootstrap.min.js" />
     <Content Include="Js\JavaScript1.js" />
@@ -159,12 +161,12 @@
     <Compile Include="pages\getValueOfProduct.aspx.designer.cs">
       <DependentUpon>getValueOfProduct.aspx</DependentUpon>
     </Compile>
-    <Compile Include="pages\hello.aspx.cs">
-      <DependentUpon>hello.aspx</DependentUpon>
+    <Compile Include="pages\adminLogin.aspx.cs">
+      <DependentUpon>adminLogin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="pages\hello.aspx.designer.cs">
-      <DependentUpon>hello.aspx</DependentUpon>
+    <Compile Include="pages\adminLogin.aspx.designer.cs">
+      <DependentUpon>adminLogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="pages\Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
